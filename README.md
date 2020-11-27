@@ -2,7 +2,7 @@
 Sou iniciante em programação com foco no front-end de aplicações web e confesso que estou cada dia fico mais apaixonado :cupid:! 
 Como todo novato no mundo dos softwares, possuo um conhecimento limitado - mas na busca diária da utrapassagem destes limites :muscle: :runner: -
 "Engatinho" no desenvolvimento com a linguagem **JavaScript** (usando e abusando da lib **ReactJS**!), 
- desenvolvo com as linguagens de marcação **Html** e **css3**(também abusando da lib **Styled components** :nail_care:).
+ desenvolvo com as linguagens de marcação **Html** e **Css3**(também abusando da lib **Styled Components** :nail_care:).
 
 
 
