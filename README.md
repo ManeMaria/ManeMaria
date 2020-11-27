@@ -6,4 +6,6 @@ Como todo novato no mundo dos softwares, possuo um conhecimento limitado - mas n
 
 
 
+
+
 Visite meu [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/c%C3%A9sar-damasceno-56bb8a1b0/) para saber mais sobre minhas atividades profissionais.
