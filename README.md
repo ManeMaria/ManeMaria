@@ -1,4 +1,4 @@
-# Olá, meu nome é César :wave:
+# Olá Olá, chamo-se César :wave:
 Sou iniciante em programação com foco no front-end de aplicações web e confesso que estou a cada dia mais apaixonado :cupid:! 
 Como todo novato no mundo dos softwares, possuo um conhecimento limitado - mas na busca diária da utrapassagem destes limites :muscle: :runner:.
 "Engatinho" ,no desenvolvimento, com a linguagem **JavaScript** (usando e abusando da lib **ReactJS**!), 
