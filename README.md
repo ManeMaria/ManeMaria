@@ -26,5 +26,5 @@
 
 #### 💻 Github Status:
 
-![Michael Status](https://github-readme-stats.vercel.app/api?username=manemaria&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Cesar Status](https://github-readme-stats.vercel.app/api?username=manemaria&count_private=true&theme=tokyonight&hide=contribs,prs)
 [![Ranking Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=manemaria&layout=compact&theme=dark)](https://github.com/manemaria/github-readme-stats)
