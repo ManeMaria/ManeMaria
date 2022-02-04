@@ -1,30 +1,60 @@
-## Olá, meu nome é César <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Olá pessoas! 🤙
 
-- 🔭 Eterno estudante de desenvolvimento de softwares!
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-:mailbox: Contatos:
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/césar-damasceno-56bb8a1b0/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&labelColor=blue&logo=instagram&logoColor=white)](https://www.instagram.com/cesar__dml/?hl=pt-br) [![G-Mail Badge](https://img.shields.io/badge/Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mirandacesar598@gmail.com)
+## Sou estudante de análise e desenvolvimento de sistemas 
 
-#### 👨🏼‍🏫Tecnologias:
+- 👨‍💻 Atualmente eu trabalho com as tecnologias JavaScript, React etc.
+- 📚 Estou aprendendo tudo sobre tecnologias Frontend e Backend 😅
+- 💪🏼 Objetivos Futuros: Aprender mais tecnologias - Nunca parar de criar novas ideias.
+- ⚡ Curiosidade: adoro jogar um lozinho 🎱.
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![HTML5](https://img.shields.io/badge/-HTML_5-orange?style=for-the-badge&labelColor=white&logo=html5&logoColor=orange)](#)
-[![CSS3](https://img.shields.io/badge/-CSS_3-blue?style=for-the-badge&labelColor=white&logo=css3&logoColor=blue)](#)
-<br>
-<br>
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Styled component Badge](https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
-<br>
-<br>
-[![Nodejs Badge](https://img.shields.io/badge/-Node-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express Badge](https://img.shields.io/badge/-Express-grey?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
-<br>
-<br>
-[![mongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=greenF)](#)
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=white&logo=MySQL&logoColor=blue)](#)
+---
 
-#### 💻 Github Status:
+### Languages and Tools 🛠 
 
-![Cesar Status](https://github-readme-stats.vercel.app/api?username=manemaria&count_private=true&theme=tokyonight&hide=contribs,prs)
-[![Ranking Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=manemaria&layout=compact&theme=dark)](https://github.com/manemaria/github-readme-stats)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Expressjs](https://img.shields.io/badge/-Expressjs-orange?style=flat-square&logo=expressjs&logoColor=black)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![MongoDb](https://img.shields.io/badge/-MongoDb-FFCA28?style=flat-square&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+<br/>
+
+---
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manemaria&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manemaria&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
+
+---
+
+### 🖊️ [instagram](https://www.instagram.com/cesar__dml/) 🔨 [linkedin](www.linkedin.com/in/cesar-damasceno) ### 
+
+
+  
+
+
