@@ -52,7 +52,7 @@
 
 ---
 
-### 🖊️ [instagram](https://www.instagram.com/cesar__dml/) 🔨 [linkedin](www.linkedin.com/in/cesar-damasceno) ### 
+### 🖊️ [instagram](https://www.instagram.com/cesar__dml/) 🔨 [linkedin](https://www.linkedin.com/in/cesar-damasceno) ### 
 
 
   
