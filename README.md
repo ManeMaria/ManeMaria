@@ -4,7 +4,7 @@
 
 ## Sou estudante de análise e desenvolvimento de sistemas 
 
-- 👨‍💻 Atualmente eu trabalho com as tecnologias Typescript, React etc.
+- 👨‍💻 Atualmente eu trabalho com as tecnologias Typescript, React, Next, Nest, Node, Express...
 - 📚 Estou aprendendo tudo sobre tecnologias Frontend e Backend 😅
 - 💪🏼 Objetivos Futuros: Aprender mais tecnologias - Nunca parar de criar novas ideias.
 - ⚡ Curiosidade: adoro jogar um lozinho 🎱.
