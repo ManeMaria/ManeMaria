@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Sou estudante de análise e desenvolvimento de sistemas 
+## Sou eterno estudante de tecnologias 
 
 - 👨‍💻 Atualmente eu trabalho com as tecnologias Typescript, React, Next, Nest, Node, Express...
 - 📚 Estou aprendendo tudo sobre tecnologias Frontend e Backend 😅
